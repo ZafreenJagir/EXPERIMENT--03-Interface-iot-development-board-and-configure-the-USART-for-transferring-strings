@@ -116,7 +116,8 @@ int main(void)
 ## Output screen shots of Serial port utility   :
  
  
- 
+ <img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/361cb1bb-246a-474f-b4d7-c60bc624f825" />
+
  
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
